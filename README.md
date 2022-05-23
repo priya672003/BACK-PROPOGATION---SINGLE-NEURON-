@@ -1,4 +1,4 @@
-### EX NO: 07
+### EX NO: 04
 
 ### DATE:
 
@@ -31,9 +31,13 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 Keep repeating the process until the desired output is achieved.
 
 ### PROGRAM:
-### Program to implement random classification.
-### Developed by   : PRIYADARSHINI R
-### Register Number :  212220230038
+
+Program to implement random classification.
+
+Developed by   : PRIYADARSHINI R
+
+Register Number :  212220230038
+
 ```python3
 import numpy as np
 i=1.5    
