@@ -61,6 +61,9 @@ print(" ")
 print(w)
 ```
 ## OUTPUT:
+
+<br>
+<br>
 ![n1](https://user-images.githubusercontent.com/81132849/164502585-fc7cece2-c678-48f0-9011-9cfa527eeeb5.jpg)
 
 ## RESULT:
