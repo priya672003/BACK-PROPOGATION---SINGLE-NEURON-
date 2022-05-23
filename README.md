@@ -27,8 +27,7 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 3. Calculate the output for every neuron from the input layer, to the hidden layers, to the output layer.
 4. Calculate the error in the outputs.
 5. Travel back from the output layer to the hidden layer to adjust the weights such that the error is decreased.
-
-Keep repeating the process until the desired output is achieved.
+6. Keep repeating the process until the desired output is achieved.
 
 ### PROGRAM:
 
@@ -60,7 +59,6 @@ print(a)
 print(" ")
 print(w)
 ```
-
 ## OUTPUT:
 
 ![n1](https://user-images.githubusercontent.com/81132849/164502585-fc7cece2-c678-48f0-9011-9cfa527eeeb5.jpg)
